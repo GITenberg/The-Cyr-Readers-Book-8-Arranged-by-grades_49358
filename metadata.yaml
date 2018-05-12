@@ -1,4 +1,8 @@
 _repo: The-Cyr-Readers-Book-8-Arranged-by-grades_49358
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 49358-h/images/cover_lg.jpg
 creator:
   author:
     agent_name: Cyr, Ellen M.
@@ -10,6 +14,8 @@ creator:
     gutenberg_agent_id: '3813'
     url: http://www.gutenberg.org/2009/agents/3813
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49358#The-Cyr-Readers-Book-8-Arranged-by-grades
 gutenberg_issued: '2015-07-04'
 gutenberg_type: Text
 identifiers:
